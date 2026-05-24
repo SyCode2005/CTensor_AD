@@ -1,4 +1,4 @@
-# Memory-Bounded Subspace Tracking for Real-Time Anomaly Detection over Streams
+# Memory-Bounded Subspace Tracking for Real-Time Anomaly Detection over Streams (Submitted to CIKM 2026)
 
 ## Abstract
 Real-time detection of anomalous traffic patterns is critical for network security and reliability. Traffic anomalies often appear as unusual changes that span multiple links simultaneously, making multi-dimensional tensor representations a natural structure. However, in dynamic streaming network environments, the traffic tensor grows indefinitely over time, and directly storing and analyzing it for anomaly detection becomes impractical under memory and computational constraints. 

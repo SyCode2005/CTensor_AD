@@ -13,10 +13,10 @@ Built upon CTensor, we develop CTensor-AD, a lightweight online anomaly detectio
 
 ## Datasets
 
-| Dataset | Nodes | OD Pairs | Time Slots | Duration |
-|---------|-------|----------|------------|----------|
-| Abilene | 12 | 144 | 48,384 | 6 months |
-| Géant   | 23 | 529 | 10,772 | 4 months |
+| Dataset | Nodes | OD Pairs | Time Slots | Duration | Download |
+|---------|-------|----------|------------|----------|----------|
+| Abilene | 12 | 144 | 48,384 | 6 months | [Link](https://www.cs.utexas.edu/~yzhang/research/AbileneTM/) |
+| Géant   | 23 | 529 | 10,772 | 4 months | [Link](https://totem.info.ucl.ac.be/dataset.html) |
 
 ## Quick Start
 
@@ -33,6 +33,5 @@ Run the main script for each dataset:
   ```
 
 
-## License
 
-This project is licensed under the MIT License.
+

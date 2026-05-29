@@ -18,7 +18,7 @@ Built upon CTensor, we develop CTensor-AD, a lightweight online anomaly detectio
 | Abilene | 12 | 144 | 48,384 | 6 months | [Link](https://www.cs.utexas.edu/~yzhang/research/AbileneTM/) |
 | Géant   | 23 | 529 | 10,772 | 4 months | [Link](https://totem.info.ucl.ac.be/dataset.html) |
 
-## Quick Start
+## Demon 
 
 Run the main script for each dataset:
 
